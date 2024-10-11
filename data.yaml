@@ -1,0 +1,6 @@
+
+train: C:\Users\user\Documents\GitHub\JoVison-AI-tasks\AI Tasks\data\images\train
+val: C:\Users\user\Documents\GitHub\JoVison-AI-tasks\AI Tasks\data\images\val
+
+nc: 6  # Number of classes
+names: ['Bishop', 'King', 'Pawn', 'Rook', 'Knight', 'Queen']  # List of class names

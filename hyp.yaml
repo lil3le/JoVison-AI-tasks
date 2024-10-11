@@ -1,0 +1,9 @@
+flipud: 0.5  # Vertical flip (upside down)
+fliplr: 0.5  # Horizontal flip
+hsv_h: 0.015 # HSV-Hue augmentation (fraction)
+hsv_s: 0.7   # HSV-Saturation augmentation (fraction)
+hsv_v: 0.4   # HSV-Value augmentation (fraction)
+scale: 0.5   # Scale augmentation (fraction)
+shear: 0.5   # Shear augmentation (fraction)
+rotation: 20 # Degree rotation (+/-)
+translate: 0.1 # Translation (fraction)
